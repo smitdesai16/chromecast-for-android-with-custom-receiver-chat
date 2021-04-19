@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Chromecast For Android With Custom Receiver Chat</string>
+    <string name="receiver_app_id">DEF87643</string>
 </resources>
